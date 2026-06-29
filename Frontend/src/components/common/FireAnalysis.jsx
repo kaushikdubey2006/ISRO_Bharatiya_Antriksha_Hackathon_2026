@@ -14,7 +14,7 @@ function FireAnalysis() {
 
   useEffect(() => {
 
-    fetch("http://https://aerosynq-isro.onrender.com/api/fire")
+    fetch("https://aerosynq-isro.onrender.com/api/fire")
       .then((res) => {
         if (!res.ok) {
           throw new Error("Fire API Error");
