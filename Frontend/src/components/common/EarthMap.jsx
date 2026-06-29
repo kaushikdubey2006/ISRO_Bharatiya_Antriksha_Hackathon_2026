@@ -370,8 +370,8 @@ function EarthMap({ type = "aqi" }) {
 const [hchoData, setHchoData] = useState([]);
 
   useEffect(() => {
-    fetch("http://127.0.0.1:5000/api/hcho")
-    fetch("http://127.0.0.1:5000/api/aqi")
+    fetch("http://https://aerosynq-isro.onrender.com/api/hcho")
+    fetch("http://https://aerosynq-isro.onrender.com/api/aqi")
       .then((res) => {
         if (!res.ok) throw new Error();
         return res.json();
@@ -381,7 +381,7 @@ const [hchoData, setHchoData] = useState([]);
     console.error("AQI API Error:", err);
 });
 
-    fetch("http://127.0.0.1:5000/api/hcho")
+    fetch("http://https://aerosynq-isro.onrender.com/api/hcho")
   .then((res) => {
     if (!res.ok) throw new Error("API Error");
     return res.json();
