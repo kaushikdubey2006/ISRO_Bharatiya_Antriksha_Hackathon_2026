@@ -1,4 +1,4 @@
-import LandingLayout from "../layouts/LandingLayout";
+import LandingLayout from "../Layouts/LandingLayout";
 import Hero from "../components/landing/Hero";
 import ModuleSelection from "../components/landing/ModuleSelection";
 
