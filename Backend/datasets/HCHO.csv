@@ -1,0 +1,61 @@
+city,latitude,longitude,hcho,prediction,status,source,confidence
+Delhi,28.6139,77.209,2.84,3.04,High,Traffic + Industry,95%
+Mumbai,19.076,72.8777,2.41,2.58,Moderate,Petrochemical,95%
+Nagpur,21.1458,79.0882,1.62,1.73,Moderate,Traffic,95%
+Pune,18.5204,73.8567,1.76,1.88,Moderate,Traffic,95%
+Hyderabad,17.385,78.4867,1.94,2.08,Moderate,Urban Emissions,95%
+Chennai,13.0827,80.2707,2.09,2.24,Moderate,Manufacturing,95%
+Bengaluru,12.9716,77.5946,1.58,1.69,Moderate,Urban,95%
+Kolkata,22.5726,88.3639,2.55,2.73,High,Traffic,95%
+Ahmedabad,23.0225,72.5714,2.43,2.6,Moderate,Industry,95%
+Jaipur,26.9124,75.7873,1.83,1.96,Moderate,Urban,95%
+Lucknow,26.8467,80.9462,2.61,2.79,High,Traffic,95%
+Bhopal,23.2599,77.4126,1.74,1.86,Moderate,Urban,95%
+Indore,22.7196,75.8577,1.88,2.01,Moderate,Industry,95%
+Patna,25.5941,85.1376,2.44,2.61,Moderate,Traffic,95%
+Raipur,21.2514,81.6296,2.66,2.85,High,Steel Plants,95%
+Jamnagar,22.4707,70.0577,3.12,3.34,High,Refinery,95%
+Vadodara,22.3072,73.1812,2.67,2.86,High,Chemical Industry,95%
+Ankleshwar,21.6264,73.0152,3.48,3.72,Critical,Industrial Cluster,95%
+Korba,22.3595,82.7501,2.91,3.11,High,Thermal Power,95%
+Singrauli,24.1998,82.6754,3.26,3.49,Critical,Coal Plants,95%
+Durgapur,23.5204,87.3119,2.43,2.6,Moderate,Steel Industry,95%
+Jamshedpur,22.8046,86.2029,2.32,2.48,Moderate,Metallurgy,95%
+Visakhapatnam,17.6868,83.2185,2.11,2.26,Moderate,Port + Industry,95%
+Faridabad,28.4089,77.3178,2.78,2.97,High,Industry,95%
+Panipat,29.3909,76.9635,2.86,3.06,High,Refinery,95%
+Noida,28.5355,77.391,2.35,2.51,Moderate,Urban,95%
+Surat,21.1702,72.8311,2.18,2.33,Moderate,Textile,95%
+Kanpur,26.4499,80.3319,2.72,2.91,High,Industry,95%
+Agra,27.1767,78.0081,2.38,2.55,Moderate,Traffic,95%
+Meerut,28.9845,77.7064,2.57,2.75,High,Urban,95%
+Amritsar,31.634,74.8723,2.01,2.15,Moderate,Traffic,95%
+Ludhiana,30.9009,75.8573,2.48,2.65,Moderate,Industry,95%
+Chandigarh,30.7333,76.7794,1.69,1.81,Moderate,Urban,95%
+Dehradun,30.3165,78.0322,1.42,1.52,Low,Urban,95%
+Varanasi,25.3176,82.9739,2.52,2.7,High,Traffic,95%
+Prayagraj,25.4358,81.8463,2.29,2.45,Moderate,Urban,95%
+Ranchi,23.3441,85.3096,2.13,2.28,Moderate,Mining,95%
+Bhubaneswar,20.2961,85.8245,1.97,2.11,Moderate,Urban,95%
+Cuttack,20.4625,85.883,2.06,2.2,Moderate,Urban,95%
+Angul,20.8444,85.1511,3.04,3.25,High,Thermal Plants,95%
+Sambalpur,21.4669,83.9812,2.37,2.54,Moderate,Industry,95%
+Nashik,19.9975,73.7898,1.91,2.04,Moderate,Urban,95%
+Aurangabad,19.8762,75.3433,1.95,2.09,Moderate,Industry,95%
+Mysuru,12.2958,76.6394,1.33,1.42,Low,Urban,95%
+Coimbatore,11.0168,76.9558,1.51,1.62,Moderate,Industry,95%
+Madurai,9.9252,78.1198,1.48,1.58,Low,Urban,95%
+Kochi,9.9312,76.2673,1.64,1.75,Moderate,Port,95%
+Thiruvananthapuram,8.5241,76.9366,1.29,1.38,Low,Urban,95%
+Guwahati,26.1445,91.7362,1.87,2,Moderate,Urban,95%
+Siliguri,26.7271,88.3953,1.72,1.84,Moderate,Traffic,95%
+Shillong,25.5788,91.8933,1.18,1.26,Low,Urban,95%
+Imphal,24.817,93.9368,1.25,1.34,Low,Urban,95%
+Aizawl,23.7271,92.7176,1.11,1.19,Low,Urban,95%
+Itanagar,27.0844,93.6053,1.09,1.17,Low,Urban,95%
+Gangtok,27.3389,88.6065,1.14,1.22,Low,Urban,95%
+Jodhpur,26.2389,73.0243,2.05,2.19,Moderate,Urban,95%
+Udaipur,24.5854,73.7125,1.68,1.8,Moderate,Urban,95%
+Gwalior,26.2183,78.1828,2.14,2.29,Moderate,Traffic,95%
+Bilaspur,22.0797,82.1409,2.22,2.38,Moderate,Industry,95%
+Dhanbad,23.7957,86.4304,2.73,2.92,High,Coal Mining,95%
