@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import DashboardLayout from "../Layouts/DashboardLayout";
+import DashboardLayout from "../layouts/DashboardLayout";
 import EarthMap from "../components/common/EarthMap";
 import SummaryCards from "../components/common/SummaryCards";
 import MapLegend from "../components/common/MapLegend";
